@@ -1,2 +1,2 @@
-a = "hello, world!"
-print(a[2:])
+remove_chars= "hello, world!"
+print(remove_chars[2:])
