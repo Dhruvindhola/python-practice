@@ -1,7 +1,8 @@
 marks ={
     "Dhruvin": 95,
     "Amit": 56,
-    "Jeel": 71
+    "Jeel": 71,
+    84: "harsh"
 }
 
 # print(marks.items()) # This methods is items
