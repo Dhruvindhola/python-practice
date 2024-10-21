@@ -1,7 +1,7 @@
 p1 = "Make a lot of money"
-p2 = "Buy now"
-p3 = "Subscribe this"
-p4 = "Click this"
+p2 = "buy now"
+p3 = "subscribe this"
+p4 = "click this"
 
 message = input("Enter your comment: ")
 
