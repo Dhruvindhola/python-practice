@@ -5,4 +5,4 @@ marks ={
 }
 
 # print(marks, type(marks))
-print(marks["Dhruvin"])
+print("Jeel", marks["Jeel"])
