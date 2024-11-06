@@ -1,15 +1,16 @@
 class Employee:
-    language = "Python" # This is a class attribute
+    language = "Python" 
     salary = 120000
 
     def getInfo(self):
         print(f"The language is {self.language}. The salary is {self.salary}")
 
-    def greet(self):
+    @staticmethod
+    def greet():
         print("Good morning")
 
 
 Ram = Employee()
-Ram.language = "Java" # This is an instance attribute
+Ram.language = "Java" 
 Ram.getInfo()
 Ram.greet()
