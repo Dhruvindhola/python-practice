@@ -5,5 +5,4 @@ class a:
     def hello():
         print("Hello world!")
 
-
 a.hello()
